@@ -6,3 +6,5 @@ dataset in the field of machine learning and computer
 vision. The primary goal of this project is to build and
 train a neural network model that can accurately classify
 handwritten digits from 0 to 9.
+
+Check out my youtube channel : https://youtu.be/ibGs8GCG61s?si=o6hhaTtMGZ7Td5jJ
